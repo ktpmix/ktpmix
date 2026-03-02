@@ -43,7 +43,7 @@ Focused on large-scale batch & streaming pipelines, distributed processing, and 
 
 
 ### 📡 Streaming Data Processing System  
-🔗 https://github.com/ktpmix/Real-Time-Food-Order-Dashboard
+🔗 [Real-Time-Food-Order-Dashboard ](https://github.com/ktpmix/Real-Time-Food-Order-Dashboard)
 - Kafka producer-consumer architecture  
 - Real-time aggregation  
 - PostgreSQL storage  
@@ -51,22 +51,24 @@ Focused on large-scale batch & streaming pipelines, distributed processing, and 
 
 ---
 
-### 🔄 Scalable Data Pipeline Architecture  
-🔗 [https://github.com/YOUR_USERNAME/YOUR_REPO  ](https://github.com/View-MG/product-categorization-system)
-- Spark-based distributed ETL  
-- Data quality validation layer  
-- Warehouse integration (BigQuery)  
-- Dashboard-ready structured output  
+### 📦 Deep Learning Product Categorization Pipeline  
+🔗  [product-categorization-system ](https://github.com/View-MG/product-categorization-system)
+- Cleans and preprocesses raw product text data
+- Performs feature engineering and vectorization
+- Trains supervised classification models
+- Evaluates performance using structured metrics
+- Outputs standardized product categories
 
 ---
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktpmix&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktpmix&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktpmix&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktpmix&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
 ## 📫 Contact
 📧 kittipoommix@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/kittipoom-kittipoomwong-2324b22a1/
+🔗 LinkedIn: [kittipoom-kittipoomwong ](https://www.linkedin.com/in/kittipoom-kittipoomwong-2324b22a1/)

@@ -62,13 +62,6 @@ Focused on large-scale batch & streaming pipelines, distributed processing, and 
 ---
 
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktpmix&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktpmix&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## 📫 Contact
 📧 kittipoommix@gmail.com  
 🔗 LinkedIn: [kittipoom-kittipoomwong ](https://www.linkedin.com/in/kittipoom-kittipoomwong-2324b22a1/)

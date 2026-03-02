@@ -41,8 +41,18 @@ Focused on large-scale batch & streaming pipelines, distributed processing, and 
 
 ## 📌 Featured Projects
 
+
+### 📡 Streaming Data Processing System  
+🔗 https://github.com/ktpmix/Real-Time-Food-Order-Dashboard
+- Kafka producer-consumer architecture  
+- Real-time aggregation  
+- PostgreSQL storage  
+- Monitoring & logging  
+
+---
+
 ### 🔄 Scalable Data Pipeline Architecture  
-🔗 https://github.com/YOUR_USERNAME/YOUR_REPO  
+🔗 [https://github.com/YOUR_USERNAME/YOUR_REPO  ](https://github.com/View-MG/product-categorization-system)
 - Spark-based distributed ETL  
 - Data quality validation layer  
 - Warehouse integration (BigQuery)  
@@ -50,14 +60,6 @@ Focused on large-scale batch & streaming pipelines, distributed processing, and 
 
 ---
 
-### 📡 Streaming Data Processing System  
-🔗 https://github.com/YOUR_USERNAME/YOUR_REPO  
-- Kafka producer-consumer architecture  
-- Real-time aggregation  
-- PostgreSQL storage  
-- Monitoring & logging  
-
----
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktpmix&show_icons=true)
@@ -67,4 +69,4 @@ Focused on large-scale batch & streaming pipelines, distributed processing, and 
 
 ## 📫 Contact
 📧 kittipoommix@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR_LINK
+🔗 LinkedIn: https://www.linkedin.com/in/kittipoom-kittipoomwong-2324b22a1/
